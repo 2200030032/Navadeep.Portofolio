@@ -41,11 +41,11 @@ const Hero = () => {
                   <div className="w-full h-full rounded-full bg-background p-1">
                     {/* Replace this src with your actual photo */}
                     <img
-<<<<<<< HEAD
-                      src="/api/placeholder/400/400"
-=======
+
+                    
+
                       src="images/Sai.jpg"
->>>>>>> dca94c5 (Final Commit)
+
                       alt="Boddu Sai Navadeep"
                       className="w-full h-full rounded-full object-cover border-2 border-primary/20 group-hover:scale-105 transition-all duration-500 shadow-2xl shadow-primary/20"
                     />
@@ -73,18 +73,13 @@ const Hero = () => {
           </div>
 
           {/* Name and Roles */}
-<<<<<<< HEAD
-          <h1 className="text-6xl md:text-8xl font-black mb-4 animate-slide-up tracking-tight text-gradient">
-            BODDU SAI NAVADEEP
-          </h1>
-=======
+         
           <h1 className="text-5xl md:text-6xl font-black mb-4 animate-slide-up tracking-tight text-gradient">
             BODDU SAI NAVADEEP
           </h1>
           
 
 
->>>>>>> dca94c5 (Final Commit)
 
           {/* Animated Subtitle */}
           <div className="flex items-center justify-center gap-4 mb-8 animate-fade-in-up">
